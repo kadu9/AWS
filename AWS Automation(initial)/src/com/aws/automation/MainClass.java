@@ -7,9 +7,9 @@ public class MainClass {
 		AWSSingupFormAutomation singupFormAutomation = new AWSSingupFormAutomation();
 		singupFormAutomation.setUp();
 		String email = " eyssolld@awstest.com";
-		// AWS access key
-		String accessKey = "";
+		String accessKey = "AKIAJVEJ77QXCF3KFPYQ";
 		// AWS secret key
+		String secretKey = "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";
 
 		singupFormAutomation.testAwsjunit4Webdriver(email);
 
