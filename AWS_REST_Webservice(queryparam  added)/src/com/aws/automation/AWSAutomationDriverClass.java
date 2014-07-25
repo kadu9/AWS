@@ -10,10 +10,7 @@ public class AWSAutomationDriverClass {
 
 	public void automateAWS() throws Exception {
 
-		// AWS access key
-		String accessKey = "AKIAJVEJ77QXCF3KFPYQ";
-		// AWS secret key
-		String secretKey = "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";
+	u";
 
 		AWSSingupFormAutomation singupFormAutomation = new AWSSingupFormAutomation();
 		singupFormAutomation.setUp();
