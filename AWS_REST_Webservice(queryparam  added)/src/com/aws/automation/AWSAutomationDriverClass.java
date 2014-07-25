@@ -10,7 +10,6 @@ public class AWSAutomationDriverClass {
 
 	public void automateAWS() throws Exception {
 
-	u";
 
 		AWSSingupFormAutomation singupFormAutomation = new AWSSingupFormAutomation();
 		singupFormAutomation.setUp();
