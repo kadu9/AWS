@@ -6,9 +6,9 @@ public class MainClass {
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
 		String email = " eysld@astest.com";
-		String accessKey = "AKIAJVEJ77QXCF3KFPYQ";
+		String accessKey = "";
 		// AWS secret key
-		String secretKey = "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";
+		String secretKey = "";
 		// Key Name
 		String keyName="";
 		String publicKeyMaterial="";
